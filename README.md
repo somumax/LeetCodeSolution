@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/somumax/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1508-longest-happy-prefix](https://github.com/somumax/LeetCodeSolution/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/somumax/LeetCodeSolution/tree/master/1508-longest-happy-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/somumax/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/somumax/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
