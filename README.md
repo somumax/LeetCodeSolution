@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/somumax/LeetCodeSolution/tree/master/0054-spiral-matrix) |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/somumax/LeetCodeSolution/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Sorting
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
+## Number Theory
+|  |
+| ------- |
+| [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 <!---LeetCode Topics End-->
