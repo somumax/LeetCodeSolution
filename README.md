@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/somumax/LeetCodeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -92,8 +94,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
