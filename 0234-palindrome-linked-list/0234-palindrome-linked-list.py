@@ -8,16 +8,23 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def isPalindrome(self, head: Optional[ListNode]) -> bool:
-        traversal = []
-        curr = head 
+        stack = []
+        curr = head
+        
         while curr:
-            traversal.append(curr.val)
+            stack.append(curr.val)
             curr = curr.next
-        for i in range(len(traversal) // 2):
-            if (traversal[i] != traversal[len(traversal) - 1 - i]):
+    
+        curr = head
+        
+        while curr:
+            if curr.val != stack.pop():
                 return False
+            curr = curr.next
+        
         return True
         
         
