@@ -88,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/somumax/LeetCodeSolution/tree/master/1185-find-in-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
