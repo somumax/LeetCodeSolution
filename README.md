@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0023-merge-k-sorted-lists) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Number Theory
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/somumax/LeetCodeSolution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0328-odd-even-linked-list) |
@@ -105,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/somumax/LeetCodeSolution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
