@@ -128,10 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/somumax/LeetCodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/somumax/LeetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/somumax/LeetCodeSolution/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/somumax/LeetCodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/somumax/LeetCodeSolution/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
@@ -139,12 +141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/somumax/LeetCodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/somumax/LeetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/somumax/LeetCodeSolution/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/somumax/LeetCodeSolution/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/somumax/LeetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/somumax/LeetCodeSolution/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Search Tree
 |  |
 | ------- |
