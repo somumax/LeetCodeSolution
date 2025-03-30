@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/somumax/LeetCodeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/somumax/LeetCodeSolution/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/somumax/LeetCodeSolution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/somumax/LeetCodeSolution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/somumax/LeetCodeSolution/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/somumax/LeetCodeSolution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
