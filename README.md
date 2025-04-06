@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/somumax/LeetCodeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
 ## Stack
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somumax/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/somumax/LeetCodeSolution/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
 | [0214-shortest-palindrome](https://github.com/somumax/LeetCodeSolution/tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/somumax/LeetCodeSolution/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/somumax/LeetCodeSolution/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/somumax/LeetCodeSolution/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/somumax/LeetCodeSolution/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/somumax/LeetCodeSolution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
