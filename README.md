@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/somumax/LeetCodeSolution/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
 | [0214-shortest-palindrome](https://github.com/somumax/LeetCodeSolution/tree/master/0214-shortest-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/somumax/LeetCodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/somumax/LeetCodeSolution/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somumax/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/somumax/LeetCodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/somumax/LeetCodeSolution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/somumax/LeetCodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
 | ------- |
