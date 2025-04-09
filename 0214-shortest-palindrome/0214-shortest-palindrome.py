@@ -1,23 +1,14 @@
 class Solution:
     def shortestPalindrome(self, s: str) -> str:
-        if not s:
-            return s
-        
-        rev_s = s[::-1]
-        new_s = s + "#" + rev_s
-        lps = [0] * len(new_s)
-
-        # Compute LPS (Longest Prefix Suffix) array for KMP algorithm
+        rev = s[::-1]
+        comb = s + "#" + rev
+        kmp = [0] * len(comb)
         j = 0
-        for i in range(1, len(new_s)):
-            while j > 0 and new_s[i] != new_s[j]:
-                j = lps[j - 1]
-            if new_s[i] == new_s[j]:
+        for i in range(1, len(comb)):
+            j = kmp[i - 1]
+            while j > 0 and comb[i] != comb[j]:
+                j = kmp[j - 1]
+            if comb[i] == comb[j]:
                 j += 1
-            lps[i] = j
-
-        # Find the longest palindrome prefix
-        longest_palindrome_prefix_length = lps[-1]
-        suffix_to_add = rev_s[:len(s) - longest_palindrome_prefix_length]
-        
-        return suffix_to_add + s
+            kmp[i] = j
+        return rev[:len(s) - kmp[-1]] + s
