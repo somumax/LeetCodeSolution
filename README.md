@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/somumax/LeetCodeSolution/tree/master/0054-spiral-matrix) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/somumax/LeetCodeSolution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1185-find-in-mountain-array](https://github.com/somumax/LeetCodeSolution/tree/master/1185-find-in-mountain-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/somumax/LeetCodeSolution/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/somumax/LeetCodeSolution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/somumax/LeetCodeSolution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Sorting
 |  |
