@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/somumax/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/somumax/LeetCodeSolution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/somumax/LeetCodeSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1185-find-in-mountain-array](https://github.com/somumax/LeetCodeSolution/tree/master/1185-find-in-mountain-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/somumax/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/somumax/LeetCodeSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/somumax/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/somumax/LeetCodeSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/somumax/LeetCodeSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
