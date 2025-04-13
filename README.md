@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/somumax/LeetCodeSolution/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/somumax/LeetCodeSolution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/somumax/LeetCodeSolution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/somumax/LeetCodeSolution/tree/master/0200-number-of-islands) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/somumax/LeetCodeSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1185-find-in-mountain-array](https://github.com/somumax/LeetCodeSolution/tree/master/1185-find-in-mountain-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/somumax/LeetCodeSolution/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/somumax/LeetCodeSolution/tree/master/0200-number-of-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/somumax/LeetCodeSolution/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/somumax/LeetCodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/somumax/LeetCodeSolution/tree/master/0200-number-of-islands) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/somumax/LeetCodeSolution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Tree
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/somumax/LeetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/somumax/LeetCodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/somumax/LeetCodeSolution/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/somumax/LeetCodeSolution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/somumax/LeetCodeSolution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/somumax/LeetCodeSolution/tree/master/0543-diameter-of-binary-tree) |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/somumax/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/somumax/LeetCodeSolution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/somumax/LeetCodeSolution/tree/master/0046-permutations) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/somumax/LeetCodeSolution/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
