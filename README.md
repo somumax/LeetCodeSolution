@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/somumax/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/somumax/LeetCodeSolution/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/somumax/LeetCodeSolution/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/somumax/LeetCodeSolution/tree/master/0198-house-robber) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/somumax/LeetCodeSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Stack
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/somumax/LeetCodeSolution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/somumax/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/somumax/LeetCodeSolution/tree/master/0072-edit-distance) |
 | [0214-shortest-palindrome](https://github.com/somumax/LeetCodeSolution/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/somumax/LeetCodeSolution/tree/master/0224-basic-calculator) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/somumax/LeetCodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
