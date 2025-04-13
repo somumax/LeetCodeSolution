@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/somumax/LeetCodeSolution/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/somumax/LeetCodeSolution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/somumax/LeetCodeSolution/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/somumax/LeetCodeSolution/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/somumax/LeetCodeSolution/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
 | [0214-shortest-palindrome](https://github.com/somumax/LeetCodeSolution/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/somumax/LeetCodeSolution/tree/master/0224-basic-calculator) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/somumax/LeetCodeSolution/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1508-longest-happy-prefix](https://github.com/somumax/LeetCodeSolution/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/somumax/LeetCodeSolution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/somumax/LeetCodeSolution/tree/master/0224-basic-calculator) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/somumax/LeetCodeSolution/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 ## Sorting
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/somumax/LeetCodeSolution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/somumax/LeetCodeSolution/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/somumax/LeetCodeSolution/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/somumax/LeetCodeSolution/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
