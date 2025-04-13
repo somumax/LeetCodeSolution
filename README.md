@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/somumax/LeetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/somumax/LeetCodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/somumax/LeetCodeSolution/tree/master/0543-diameter-of-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/somumax/LeetCodeSolution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Breadth-First Search
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/somumax/LeetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/somumax/LeetCodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/somumax/LeetCodeSolution/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/somumax/LeetCodeSolution/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/somumax/LeetCodeSolution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/somumax/LeetCodeSolution/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/somumax/LeetCodeSolution/tree/master/0543-diameter-of-binary-tree) |
 | [2568-minimum-fuel-cost-to-report-to-the-capital](https://github.com/somumax/LeetCodeSolution/tree/master/2568-minimum-fuel-cost-to-report-to-the-capital) |
 ## Binary Search Tree
 |  |
