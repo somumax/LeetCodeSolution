@@ -240,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/somumax/LeetCodeSolution/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [1877-find-followers-count](https://github.com/somumax/LeetCodeSolution/tree/master/1877-find-followers-count) |
 <!---LeetCode Topics End-->
